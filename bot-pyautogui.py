@@ -18,4 +18,12 @@ pyautogui.write("Login.xlsx")
 pyautogui.press("enter")
 
 #2.
-pyautogui.click(x=434, y=213)
+pyautogui.click(x=444, y=281)
+pyautogui.write("Isabelle")
+
+#3.
+pyautogui.click(x=444, y=317)
+pyautogui.write("123")
+
+#4.
+pyautogui.click(x=444, y=436)
